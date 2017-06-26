@@ -3,5 +3,5 @@
 <dc:creator id="creator">Atsushi Kokubo</dc:creator>
     <meta refines="#creator" property="role" scheme="marc:relators" id="role">aut</meta>
     <meta refines="#creator" property="alternate-script" xml:lang="ja">小久保 温</meta>
-    <meta refines="#creator" property="file-as">Murakami, Haruki</meta>
+    <meta refines="#creator" property="file-as">Kokubo, Atsushi</meta>
 <dc:rights>© 1989 小久保温, CC BY</dc:rights>
